@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eimzoughi&label=Profile%20views&color=0e75b6&style=flat" alt="eimzoughi" /> </p>
 
 ### 🌱 I’m currently learning
-* Topics #1: Procedural Generation
-* Topics #2: Reinforcement Learning, Deep Learning
-* Topics #3: Data-Oriented Programming/ECS
+* Topics #1: Shader Programming
 
 - [Repository for Curriculum Vitae](https://github.com/EIMzoughi/CV)
   
